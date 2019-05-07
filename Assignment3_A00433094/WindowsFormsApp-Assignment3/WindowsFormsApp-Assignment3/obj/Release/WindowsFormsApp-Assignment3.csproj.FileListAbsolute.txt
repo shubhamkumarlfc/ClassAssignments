@@ -1,0 +1,17 @@
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\bin\Release\Assignment3Database.mdf
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\bin\Release\Assignment3Database_log.ldf
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\bin\Release\WindowsFormsApp-Assignment3.exe.config
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\bin\Release\WindowsFormsApp-Assignment3.exe
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\bin\Release\WindowsFormsApp-Assignment3.pdb
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\bin\Release\Serilog.dll
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\bin\Release\Serilog.Sinks.File.dll
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\bin\Release\Serilog.pdb
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\bin\Release\Serilog.xml
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\bin\Release\Serilog.Sinks.File.xml
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\obj\Release\WindowsFormsApp_Assignment3.Form1.resources
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\obj\Release\WindowsFormsApp_Assignment3.Properties.Resources.resources
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\obj\Release\WindowsFormsApp-Assignment3.csproj.GenerateResource.cache
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\obj\Release\WindowsFormsApp-Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\obj\Release\WindowsFormsApp-Assignment3.csproj.CopyComplete
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\obj\Release\WindowsFormsApp-Assignment3.exe
+C:\Users\shubh\source\repos\WindowsFormsApp-Assignment3\WindowsFormsApp-Assignment3\obj\Release\WindowsFormsApp-Assignment3.pdb

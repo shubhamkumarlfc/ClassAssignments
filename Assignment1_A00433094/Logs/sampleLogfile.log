@@ -1,0 +1,8 @@
+Jan 28, 2019 9:20:13 PM org.main.MainClass main
+SEVERE:  Total Number of Rows : 282909
+Jan 28, 2019 9:20:13 PM org.main.MainClass main
+SEVERE:  Total Number of Skipped Rows : 81834
+Jan 28, 2019 9:20:13 PM org.main.MainClass main
+SEVERE:  Total Number of Valid Rows : 201075
+Jan 28, 2019 9:20:13 PM org.main.MainClass main
+INFO: Total execution time: 5101 ms

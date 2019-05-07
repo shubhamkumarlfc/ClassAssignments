@@ -1,0 +1,183 @@
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+
+Welcome to Assignment 2: MCDA 5510
+Please select one of the following operations to perform :
+Create a new Transaction - 1
+Update a existing Transaction - 2
+Delete a existing Transaction - 3
+Get a transaction - 4
+Exit - 5
+
+Please Enter your Choice Here :1
+Please enter your ID :
+115
+Please enter your name :
+David Luiz
+Please Select your Card Type : 
+ MasterCard - 1
+Visa - 2 
+American Express - 3
+1
+Please type your MasterCard Number:
+5512345678912345
+Please enter your Unit Price :
+50
+Please enter your Quantity :
+12
+Please enter your Expiry Date of Card in MM/YYYY Format :
+05/2021
+Row inserted
+A New transaction has been created Succesfully
+
+Welcome to Assignment 2: MCDA 5510
+Please select one of the following operations to perform :
+Create a new Transaction - 1
+Update a existing Transaction - 2
+Delete a existing Transaction - 3
+Get a transaction - 4
+Exit - 5
+
+Please Enter your Choice Here :4
+Please enter the Transaction Id :
+115
+115
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+   ID NAME ON CARD         CARD NUMBER      CREDIT CARD TYPE   UNIT PRICE     QUANTITY TOTAL PRICE     EXPIRY DATE CREATED ON      CREATED BY
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+  115 David Luiz     5512345678912345           MasterCard         50         12      600              05/2021  2019-03-13 21:59:20      shubh
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Please continue with your selection.
+
+Welcome to Assignment 2: MCDA 5510
+Please select one of the following operations to perform :
+Create a new Transaction - 1
+Update a existing Transaction - 2
+Delete a existing Transaction - 3
+Get a transaction - 4
+Exit - 5
+
+Please Enter your Choice Here :2
+Please enter your ID :
+115
+Please enter your name :
+D Luiz
+Please Select your Card Type : 
+ MasterCard - 1
+Visa - 2 
+American Express - 3
+1
+Please type your MasterCard Number:
+5512345678912365
+Please enter your Unit Price :
+12.2
+Please enter your Quantity :
+12
+Please enter your Expiry Date of Card in MM/YYYY Format :
+10/2017
+Your transaction data has been updated Succesfully
+
+Welcome to Assignment 2: MCDA 5510
+Please select one of the following operations to perform :
+Create a new Transaction - 1
+Update a existing Transaction - 2
+Delete a existing Transaction - 3
+Get a transaction - 4
+Exit - 5
+
+Please Enter your Choice Here :4
+Please enter the Transaction Id :
+115
+115
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+   ID NAME ON CARD         CARD NUMBER      CREDIT CARD TYPE   UNIT PRICE     QUANTITY TOTAL PRICE     EXPIRY DATE CREATED ON      CREATED BY
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+  115     D Luiz     5512345678912365           MasterCard         12         12      146              10/2017  2019-03-13 21:59:20      shubh
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Please continue with your selection.
+
+Welcome to Assignment 2: MCDA 5510
+Please select one of the following operations to perform :
+Create a new Transaction - 1
+Update a existing Transaction - 2
+Delete a existing Transaction - 3
+Get a transaction - 4
+Exit - 5
+
+Please Enter your Choice Here :1
+Please enter your ID :
+115
+Please enter your name :
+D L
+Please Select your Card Type : 
+ MasterCard - 1
+Visa - 2 
+American Express - 3
+1
+Please type your MasterCard Number:
+5512345678912345
+Please enter your Unit Price :
+12
+Please enter your Quantity :
+12
+Please enter your Expiry Date of Card in MM/YYYY Format :
+12/2017
+Error occured as transaction Id provided by you already Exists.
+Would you like to update a existing record ? please Type 'Yes' or 'No' Accordingly.
+NO
+Thank you. Your Transaction data would not be updated.
+Please continue with your selection.
+
+Welcome to Assignment 2: MCDA 5510
+Please select one of the following operations to perform :
+Create a new Transaction - 1
+Update a existing Transaction - 2
+Delete a existing Transaction - 3
+Get a transaction - 4
+Exit - 5
+
+Please Enter your Choice Here :3
+Please enter the Transaction Id :
+115
+115
+Transaction removed successfully.
+Please continue with your selection.
+
+Welcome to Assignment 2: MCDA 5510
+Please select one of the following operations to perform :
+Create a new Transaction - 1
+Update a existing Transaction - 2
+Delete a existing Transaction - 3
+Get a transaction - 4
+Exit - 5
+
+Please Enter your Choice Here :1
+Please enter your ID :
+115
+Please enter your name :
+David
+Please Select your Card Type : 
+ MasterCard - 1
+Visa - 2 
+American Express - 3
+2
+Please type your Visa Number:
+4123456789123456
+Please enter your Unit Price :
+10
+Please enter your Quantity :
+10
+Please enter your Expiry Date of Card in MM/YYYY Format :
+12/2018
+Row inserted
+A New transaction has been created Succesfully
+
+Welcome to Assignment 2: MCDA 5510
+Please select one of the following operations to perform :
+Create a new Transaction - 1
+Update a existing Transaction - 2
+Delete a existing Transaction - 3
+Get a transaction - 4
+Exit - 5
+
+Please Enter your Choice Here :5
+Thankyou. Hope to see you again soon.

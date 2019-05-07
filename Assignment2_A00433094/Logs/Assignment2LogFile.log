@@ -1,0 +1,32 @@
+Mar 13, 2019 9:58:56 PM com.mcda5510.Assignment2 main
+INFO: Create a transaction - 1 : Selected
+Mar 13, 2019 9:59:20 PM com.mcda5510.ServiceImpl.TransactionServiceImpl createTransaction
+INFO: New Transaction with transaction ID 115 created Succesfully
+Mar 13, 2019 9:59:23 PM com.mcda5510.Assignment2 main
+INFO: Get a transaction - 4 : Selected
+Mar 13, 2019 9:59:26 PM com.mcda5510.ServiceImpl.TransactionServiceImpl getTransaction
+INFO: Transaction data for the given transaction id 115 has been retrieved successfully.
+Mar 13, 2019 9:59:29 PM com.mcda5510.Assignment2 main
+INFO: Update a transaction - 2 : Selected
+Mar 13, 2019 10:00:06 PM com.mcda5510.ServiceImpl.TransactionServiceImpl updateTransaction
+INFO: Row with 115 has been updated successfully
+Mar 13, 2019 10:00:18 PM com.mcda5510.Assignment2 main
+INFO: Get a transaction - 4 : Selected
+Mar 13, 2019 10:00:23 PM com.mcda5510.ServiceImpl.TransactionServiceImpl getTransaction
+INFO: Transaction data for the given transaction id 115 has been retrieved successfully.
+Mar 13, 2019 10:00:36 PM com.mcda5510.Assignment2 main
+INFO: Create a transaction - 1 : Selected
+Mar 13, 2019 10:00:55 PM com.mcda5510.ServiceImpl.TransactionServiceImpl createTransaction
+INFO: Error occured in creating the transaction as transaction id 115 already exists
+Mar 13, 2019 10:01:21 PM com.mcda5510.Assignment2 main
+INFO: Remove a transaction - 3 : Selected
+Mar 13, 2019 10:01:24 PM com.mcda5510.ServiceImpl.TransactionServiceImpl deleteTransaction
+INFO: Transaction data for the given transaction id 115 has been removed
+Mar 13, 2019 10:01:36 PM com.mcda5510.Assignment2 main
+INFO: Create a transaction - 1 : Selected
+Mar 13, 2019 10:02:16 PM com.mcda5510.ServiceImpl.TransactionServiceImpl createTransaction
+INFO: New Transaction with transaction ID 115 created Succesfully
+Mar 13, 2019 10:02:21 PM com.mcda5510.Assignment2 main
+INFO: Exit successfull
+Mar 13, 2019 10:02:21 PM com.mcda5510.Assignment2 main
+INFO: Thankyou. Hope to see you again soon.
